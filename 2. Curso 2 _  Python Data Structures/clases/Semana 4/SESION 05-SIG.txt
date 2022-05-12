@@ -1,0 +1,3904 @@
+00:02
+[Música]
+00:07
+y
+00:08
+[Música]
+00:13
+y
+00:19
+[Música]
+00:22
+[Aplausos]
+00:27
+[Música]
+00:36
+bienvenidos al módulo 1 e interpretación
+00:39
+de la norma internacional iso 9001 en la
+00:42
+versión 2015 que abarca los sistemas de
+00:45
+gestión de la calidad ahora nos
+00:47
+encontramos en la sesión número 5 en
+00:50
+donde vamos a revisar el capítulo de
+00:52
+apoyo soy la ingeniera mireya aucapiña
+00:54
+consultora líder en sistemas integrados
+00:56
+de gestión si comparto el enlace para
+01:00
+que puedan comunicarse conmigo en caso
+01:02
+que tengan alguna duda alguna inquietud
+01:04
+o de alguna consulta con respecto a las
+01:07
+clases que hemos estado revisando en el
+01:09
+módulo 1 como hemos visto anteriormente
+01:12
+contamos con ocho sesiones
+01:15
+correcto desde la primera sesión hemos
+01:18
+revisado la introducción leemos luego
+01:21
+hemos revisado el contexto de ahí el
+01:23
+liderazgo
+01:25
+por último
+01:27
+revisamos la planificación correcto
+01:30
+ahora en esta quinta expresión vamos a
+01:33
+revisar el capítulo de apoyo
+01:36
+dentro del capítulo de apoyo vamos a ir
+01:40
+revisando punto por punto
+01:43
+sub capítulo de recursos competencia
+01:47
+toma de conciencia comunicación
+01:49
+información documentada
+01:53
+también bien comenzamos con recursos
+01:57
+en la norma nos indica que la
+01:59
+organización debe determinar y
+02:01
+proporcionar los recursos necesarios
+02:04
+para el establecimiento implementación
+02:06
+mantenimiento y mejora continua del
+02:09
+sistema de gestión de la calidad
+02:12
+en tal sentido la organización debe de
+02:15
+considerar las capacidades y
+02:17
+limitaciones de los recursos internos
+02:19
+existentes y cuáles son esas capacidades
+02:22
+y esas limitaciones en base a los
+02:24
+recursos que tiene cada una de las
+02:26
+organizaciones
+02:27
+consideramos como recurso pues
+02:31
+los recursos humanos el personal con el
+02:34
+que cuenta los materiales y recursos
+02:38
+financieros y los recursos intangibles
+02:40
+también correcto y también la
+02:44
+organización debe de considerar que se
+02:47
+necesita obtener de los proveedores
+02:49
+externos así que no nos pueden brindar
+02:53
+los proveedores externos materia prima
+02:56
+algún servicio que nosotros estamos
+03:00
+tercerizando por ejemplo podría ser el
+03:02
+servicio de mantenimiento el servicio de
+03:04
+calibración del servicio de laboratorio
+03:07
+correcto entre los servicios que
+03:09
+demanden la empresa que demande la
+03:12
+organización
+03:14
+revisando en el
+03:18
+capítulo de personas la organización
+03:20
+debe determinar y proporcionar las
+03:23
+personas necesarias para la
+03:26
+implementación eficaz de su sistema de
+03:29
+gestión de la calidad y para la
+03:31
+operación y control de sus procesos
+03:34
+entonces en este
+03:36
+en este párrafo de acá vamos a revisar
+03:39
+la norma indica que la organización que
+03:42
+la empresa debe determinar y
+03:44
+proporcionar cuáles son esas personas
+03:45
+necesarias sin necesarias para que para
+03:49
+que se pueda implementar de forma eficaz
+03:52
+el sistema de gestión de la calidad y
+03:54
+también para la operación entonces la
+03:57
+organización la empresa debe determinar
+04:00
+las personas necesarias y proporcionan
+04:03
+las personas necesarias para las
+04:05
+operaciones y controles de sus procesos
+04:08
+entonces esta adaptación este
+04:13
+este por ejemplo lo podemos visualizar
+04:16
+en el organigrama cuando cuáles son las
+04:18
+personas necesarias que hacen es decir
+04:20
+que se necesitan valga la redundancia en
+04:23
+que cada uno de los procesos con qué
+04:25
+finalidad para poder implementar de una
+04:28
+forma eficaz el sistema de gestión de la
+04:31
+calidad y también para que se pueda
+04:33
+implementar las operaciones y los
+04:36
+controles de los procesos de la
+04:37
+organización
+04:38
+correcto porque porque la organización
+04:42
+debe de planificar una vez que ha
+04:44
+planificado sus procesos y ha
+04:47
+planificado por ejemplo cuántos turnos
+04:49
+va a trabajar cuántas líneas de
+04:51
+producción es la organización quién
+04:54
+define quién determina y proporciona
+04:56
+cuántas personas necesita para
+04:59
+implementar
+05:00
+tanto el sistema de gestión de calidad y
+05:03
+también para que pueda operar y operar y
+05:07
+también controlar los procesos
+05:09
+continuamos con infraestructura
+05:12
+aquí la organización debe determinar
+05:14
+proporcionar y mantener la
+05:17
+infraestructura necesaria para la
+05:20
+operación de sus procesos y lograr la
+05:23
+conformidad de los productos y servicios
+05:25
+correcto entonces aquí la organización
+05:28
+la empresa determinada identifica
+05:32
+proporciona brindada a los recursos y
+05:35
+mantiene y mantiene la infraestructura
+05:38
+necesaria
+05:40
+para la operación de sus procesos y
+05:43
+lograr la conformidad de los productos y
+05:45
+servicios
+05:47
+ahora la infraestructura puede incluir
+05:50
+edificios puede incluir servicios
+05:52
+asociados puede incluye equipos correcto
+05:56
+equipos la maquinaria en equipos también
+06:00
+incluyendo tanto el hardware como el
+06:02
+software recursos de transporte
+06:05
+tecnologías de la información y la
+06:08
+comunicación y las tic's entonces en la
+06:11
+infraestructura que la organización debe
+06:13
+determinar identificar
+06:15
+proporcionar brindar dar el recurso y
+06:18
+mantener si mantenerla de mantenimiento
+06:21
+pues de forma
+06:23
+constante con cierta frecuencia para la
+06:27
+operación de sus procesos para que los
+06:28
+procesos puedan realizarse de una manera
+06:30
+correcta y lograr la conformidad de los
+06:34
+productos y de los servicios que la
+06:37
+empresa ofrece con respecto al ambiente
+06:41
+para la operación de los procesos la
+06:44
+organización debe determinar si debe
+06:47
+determinar proporcionar y mantener
+06:51
+el ambiente necesario para la operación
+06:54
+de sus procesos y para valorar la
+06:57
+conformidad de los productos y servicios
+07:00
+entonces en este caso cuando hablamos
+07:04
+del ambiente para los procesos
+07:07
+recuerden de que la norma iso9001 está
+07:12
+enfocado en satisfacción del cliente y
+07:15
+satisfacción del cliente aumentar las
+07:16
+expectativas del cliente otras normas
+07:19
+por ejemplo 14001 está enfocado en medio
+07:23
+ambiente
+07:24
+45.000 uno es enfocado en el trabajador
+07:27
+el colaborador
+07:29
+9001 está enfocado en satisfacción del
+07:32
+cliente y brindar productos servicios
+07:34
+estandarizados y aumentar la
+07:37
+satisfacción del cliente
+07:39
+entonces en base a eso el ambiente para
+07:44
+la operación de los procesos si en este
+07:48
+capítulo la norma nos indica que la
+07:50
+organización que la empresa debe
+07:52
+determinar
+07:54
+proporcionar y mantener el ambiente
+07:57
+necesario para que para la operación de
+08:01
+sus procesos y para lograr la
+08:03
+conformidad de los productos y servicios
+08:07
+bien cuando hablamos por ejemplo el
+08:10
+ambiente estamos hablando de
+08:12
+temperatura y humedad para que para el
+08:16
+proceso por ejemplo tenemos materiales
+08:21
+que pueden fácilmente
+08:25
+y que pueden ser fácilmente afectados
+08:29
+por tener pues un alto porcentaje de
+08:31
+humedad así como estamos en condiciones
+08:33
+normales entonces en este caso para
+08:36
+proteger para lograr la conformidad de
+08:40
+los productos y servicios y mantener
+08:43
+este ambiente necesario por ejemplo por
+08:46
+este material que sea imagínense un
+08:48
+plástico que absorbe la humedad así que
+08:51
+si gross co pico entonces para mantener
+08:55
+la conformidad de los productos y
+08:58
+servicios le damos las condiciones al
+09:01
+ambiente de esa operación de ese proceso
+09:04
+y protegiendo cuidando de que el
+09:07
+producto o el servicio pues se siga
+09:10
+conforme si para que este material no se
+09:13
+altere
+09:14
+correcto ahora si este material tiene
+09:17
+instrucciones específicas por ejemplo de
+09:19
+que se debe de mantener un ejemplo de 5
+09:23
+grados a 10 grados o de 0 grados a 5
+09:25
+grados y un porcentaje de humedad por
+09:28
+ser por ejemplo en un caso hipotético un
+09:30
+50 por ciento
+09:32
+entonces se le debe de brindar este
+09:34
+ambiente al producto si el producto en
+09:37
+proceso para que mantenga por sus
+09:39
+propiedades para que siga siendo
+09:41
+conforme y para que cuando termine
+09:43
+finalice cada uno de los procesos sea un
+09:47
+producto o un servicio conforme este es
+09:50
+el ambiente para la operación de los
+09:51
+procesos correcto
+09:53
+otro ejemplo en el tema de alimentos en
+09:58
+industria de alimentos ahora que se
+10:00
+viene ella
+10:03
+fiestas navideñas
+10:05
+sí y que la mayor parte d
+10:11
+desde nosotros quizás consume por
+10:15
+ejemplo
+10:17
+pavo para mantener este pago en
+10:21
+condiciones óptimas necesita estar
+10:23
+congelado no sé
+10:25
+por decir un número de menos 5 a
+10:28
+a cero grados correcto y ese es el
+10:31
+ambiente óptimo para el proceso para
+10:34
+conservar este elemento si ahora
+10:37
+entonces este sería un ambiente óptimo y
+10:39
+tiene que determinarse primero
+10:41
+determinar que esas temperaturas son las
+10:43
+adecuadas
+10:46
+tiene que proporcionar la empresa y
+10:48
+tiene que mantenerse mantenerse correcto
+10:54
+continuamos
+10:58
+un ambiente adecuado puede ser una
+11:01
+combinación de factores humanos y
+11:04
+factores físicos tales como los sociales
+11:08
+por ejemplo no discriminatorio un
+11:11
+ambiente tranquilo libre de conflictos
+11:13
+en qué caso aplicamos ello cuando por
+11:17
+ejemplo
+11:18
+es una empresa que brinda atención de
+11:22
+atención al ciudadano por ejemplo es una
+11:23
+empresa que brinda algún soporte directo
+11:26
+al cliente es una empresa que brinda
+11:28
+trato directo y trato directo con el
+11:32
+cliente por ejemplo el servicio del
+11:35
+cliente no sé por ejemplo es una
+11:39
+institución educativa y se le va a
+11:42
+brindar información si hay un trato
+11:45
+directo correcto entonces este ambiente
+11:47
+pues tiene que ser no discriminatorio un
+11:50
+ambiente tranquilo libre de conflictos
+11:54
+psicológicos por ejemplo reducción del
+11:56
+estrés prevención del síndrome de
+11:58
+agotamiento
+11:59
+cuidado de las emociones y por último
+12:03
+físico correcto los factores físicos por
+12:06
+ejemplo temperatura calor humedad
+12:08
+iluminación circulación de aire higiene
+12:11
+ruido
+12:12
+ahora esto con respecto a los procesos
+12:16
+con respecto a los procesos hablamos de
+12:19
+la temperatura
+12:20
+por ejemplo en industria de alimentos
+12:23
+manejamos unas temperaturas quizás
+12:25
+bordeando los 0 grados y para que esté
+12:28
+refrigerado para que esté con el
+12:31
+congelado y esa es una temperatura
+12:33
+óptima
+12:34
+correcto
+12:36
+humedad también tenemos ciertos
+12:38
+materiales
+12:39
+y que dependiendo dependiendo si hay
+12:42
+organizaciones que utilizamos no hay
+12:44
+ciertos materiales que necesitan tener
+12:46
+un porcentaje de humedad controlado
+12:49
+muy por debajo del porcentaje de humedad
+12:52
+que nosotros está tenemos pues en
+12:55
+condiciones
+12:56
+estándar en condiciones normales si
+12:59
+iluminación también iluminación para el
+13:02
+proceso por ejemplo en el proceso de
+13:06
+control de calidad están haciendo
+13:08
+algunas inspecciones en un material en
+13:10
+un producto si puede sernos en industria
+13:13
+textil pueden ser viendo los colores del
+13:16
+imagínense que hacen teñidos de hilos
+13:18
+pueden ser verificando si efectivamente
+13:21
+en una inspección visual están llegando
+13:24
+al color deseado si hay necesitan un
+13:26
+requisito de iluminación cuánto de
+13:29
+iluminación cuántos de luxe necesitan
+13:31
+como debe ser esta cámara para que
+13:33
+puedan observar el color para realizar
+13:36
+esta inspección visual del color si a
+13:39
+eso nos referimos cuando hablamos de
+13:41
+iluminación
+13:43
+circulación de aire también con respecto
+13:45
+al proceso pero mantenerlos el producto
+13:48
+en proceso
+13:50
+correcto
+13:53
+estos factores pueden diferir
+13:55
+sustancialmente
+13:56
+dependiendo de los productos y servicios
+13:59
+suministrados si continuamos con
+14:03
+recursos de seguimiento y medición
+14:07
+aquí la organización debe determinar y
+14:11
+proporcionar los recursos necesarios
+14:14
+para asegurar la validez y fiabilidad de
+14:18
+los resultados correcto cuando se
+14:20
+realice
+14:22
+el seguimiento
+14:26
+o la medición para verificar la
+14:29
+conformidad de los productos y servicios
+14:31
+con los requisitos entonces en estos
+14:34
+recursos de seguimiento y medición aquí
+14:37
+la empresa debe determinar identificar y
+14:40
+proporcionar brindar cuáles son estos
+14:43
+recursos para asegurar la validez
+14:47
+para asegurar la validez y fiabilidad de
+14:50
+los resultados cuando se realice el
+14:52
+seguimiento de la medición para
+14:54
+verificar la conformidad
+14:57
+de los productos y servicios con que
+15:02
+contrastado
+15:04
+con los requisitos si nosotros
+15:06
+identificamos por ejemplo estos recursos
+15:09
+de seguimiento y medición pueden ser
+15:11
+equipos y equipos de medición pueden ser
+15:14
+termómetros pueden ser algún equipo para
+15:18
+medir pues la longitud las dimensiones
+15:22
+un equipo para medir humedad
+15:24
+un equipo para medir presión correcta un
+15:28
+equipo de medición
+15:31
+y nosotros identificamos cuáles son esos
+15:33
+equipos realizamos una ficha y
+15:36
+realizamos pues
+15:37
+la hoja
+15:40
+la hoja de vida de este equipo la ficha
+15:42
+del equipo luego realizamos un plan de
+15:45
+verificación en qué fecha vamos a
+15:48
+verificar vamos a calibrar el equipo
+15:52
+correcto y luego vamos a estar
+15:54
+actualizando con cierta frecuencia
+15:56
+el plan entonces
+16:01
+continuar
+16:03
+con el capítulo y poder entender un poco
+16:06
+un poco más cuando hablamos de
+16:08
+calibración
+16:10
+cuando hablamos de verificación correcto
+16:14
+vamos a continuar con el vídeo vamos a
+16:17
+ver y luego vamos a comentar qué es lo
+16:20
+que hemos rescatado si del material
+16:24
+audiovisual
+16:27
+[Música]
+16:35
+hola amigos vamos a revisar cuál es la
+16:38
+diferencia entre una verificación y una
+16:40
+calibración y lo haremos mediante un
+16:43
+experimento sencillo
+16:47
+tengo tres balanzas la balanza a la
+16:50
+balanza y la balanza
+16:53
+y tengo un objeto que puede ser
+16:55
+cualquier cosa
+16:56
+te va a servir para mi experimento
+16:59
+colocó el objeto sobre la balanza y la
+17:04
+balanza me marca
+17:06
+20
+17:08
+con más 5 kilogramos
+17:10
+colocó el mismo objeto sobre la balanza
+17:13
+y la balanza de marca 10 3 kilogramos
+17:18
+coloco el mismo objeto sobre la balanza
+17:22
+mi marca
+17:24
+75 kilogramos
+17:27
+el mismo objeto debería tener la misma
+17:29
+masa en las tres balanzas pero no está
+17:32
+sucediendo eso en la balanza a la vela
+17:35
+se me está marcando una masa muy
+17:38
+diferente como sé cuál es la balanza que
+17:40
+me está dando el valor correcto
+17:43
+entonces qué es lo que se realiza
+17:45
+necesita un procedimiento de
+17:47
+verificación para saber cuál de las tres
+17:49
+balanzas está funcionando bien
+17:52
+para realizar un proceso de verificación
+17:55
+necesito un objeto cuya masa sea
+17:59
+conocida
+18:01
+entonces a este objeto se le conoce como
+18:07
+besa patrón
+18:13
+una pesa patrón no es más que
+18:18
+un objeto que tiene una masa
+18:21
+que es conocida para mi ejemplo voy a
+18:23
+decir que tengo una pesa patrón de un
+18:27
+kilogramo
+18:29
+este kilogramo va a tener más o menos
+18:31
+una desviación
+18:33
+[Música]
+18:36
+entonces yo sé que ese objeto pesa un
+18:40
+kilogramo porque es una pesa patrón qué
+18:44
+pasa si yo coloco ese objeto sobre mi
+18:47
+balanza
+18:49
+[Música]
+18:52
+qué va a pasar me debería marcar un
+18:54
+kilogramos pero no sucede es me marcó
+18:58
+2,7 kilogramos entonces qué es lo que yo
+19:01
+voy a decir mi valor que me está
+19:04
+marcando mi balanza no es el valor real
+19:07
+porque me debería marcar un kilogramo
+19:10
+por lo tanto mi balanza no está
+19:12
+funcionando correctamente
+19:15
+qué pasa si hago lo mismo colocando me
+19:18
+pesa patrón sobre mi balanza ve me marca
+19:23
+1.1 kilogramos
+19:25
+yo voy a decir que mi p sabe mi balanza
+19:28
+está funcionando bien porque porque me
+19:32
+está marcando un valor de masa muy
+19:35
+similar al valor de la masa de la pesa
+19:38
+patrón es decir
+19:41
+está acercándose mucho a la realidad
+19:44
+qué pasa si hago el mismo procedimiento
+19:46
+con la
+19:48
+balanzas de marca 0,2 kilogramos
+19:54
+yo voy a decir que mi balanza está
+19:56
+funcionando mal entonces qué es lo que
+19:59
+hice hice un procedimiento de
+20:01
+verificación la verificación es
+20:04
+comprobar si mi instrumento está
+20:07
+funcionando correctamente y para
+20:09
+realizar esa verificación necesite de
+20:12
+una mesa patrón que tenga una masa
+20:15
+conocida entonces en la verificación con
+20:19
+una pesa patrón que tiene una masa
+20:20
+desconocida con perdón conocida se
+20:23
+coloca sobre la balanza y la balanza me
+20:26
+debería marcar el mismo valor de esa
+20:28
+masa conocida en este caso la balanza no
+20:32
+está funcionando correctamente porque la
+20:34
+masa no es igual la balanza se tampoco
+20:37
+está funcionando correctamente porque la
+20:39
+masa no es igual pero la balanza se si
+20:42
+está funcionando correctamente porque la
+20:45
+masa que me registra es muy similar a la
+20:48
+masa patrón por más menos un hedor o una
+20:51
+desviación eso es un proceso de
+20:53
+verificación comprobar que mi balanza
+20:56
+esté funcionando correctamente en el
+20:58
+caso de la balanza y de la balanza ve no
+21:01
+están funcionando bien entonces qué es
+21:03
+lo que voy a hacer
+21:05
+yo digo que
+21:07
+necesito realizar una calibración a la
+21:11
+balanza
+21:13
+y al abalanzarse para que funcionen
+21:15
+correctamente la calibración la debe
+21:18
+realizar un personal técnico certificado
+21:23
+que conozca bien el funcionamiento de la
+21:26
+balanza entonces con la balanza el
+21:29
+personal va a realizar una modificación
+21:32
+o un ajuste a su sistema a su software a
+21:35
+la parte eléctrica oa la parte mecánica
+21:38
+dependiendo de qué tipo de calibración
+21:40
+para que para que la balanza esté
+21:42
+funcionando correctamente
+21:44
+luego de un procedimiento de calibración
+21:46
+mi balanza debería funcionar bien y si
+21:49
+yo coloco nuevamente me pesa patrón de
+21:53
+un kilogramo
+21:54
+[Música]
+21:57
+mi balanza ya debería marcar me un
+22:01
+kilogramo más menos una desviación
+22:05
+entonces es la diferencia entre
+22:07
+verificación y calibración la
+22:10
+verificación me ayuda a comprobar si mi
+22:11
+balanza está funcionando correctamente y
+22:14
+si no está funcionando correctamente
+22:15
+tengo que hacer un proceso de
+22:17
+calibración la calibración es de un
+22:19
+procedimiento por el cual yo modificó o
+22:22
+ajusto mi instrumento para que esté
+22:25
+funcionando bien y la medida sea la
+22:28
+correcta
+22:30
+hasta una nueva oportunidad
+22:43
+bien entonces hemos visto que la
+22:45
+verificación es el contraste si
+22:49
+utilizando ese patrón utilizando
+22:53
+patrones 3 hables correcto para
+22:57
+verificar que el instrumento de medición
+22:59
+en este caso la balanza esté
+23:03
+cuando
+23:05
+correctamente
+23:06
+midiendo correctamente por otro lado
+23:10
+como hemos visto en el ejemplo
+23:14
+las balanzas pues han tenido una
+23:16
+desviación
+23:17
+demasiado
+23:18
+muy considerable
+23:21
+si una desviación pues
+23:24
+mayor a la de dirección de la pesa
+23:28
+patrón en este caso si hace falta una
+23:33
+calibración que como bien explicado en
+23:36
+el vídeo la calibración se trata de un
+23:38
+proceso llevado a cabo por personal
+23:41
+técnico
+23:42
+generalmente se lleva a cabo en
+23:45
+laboratorios y laboratorios de
+23:47
+calibración en algunos casos la misma
+23:51
+empresa podría ser siempre cuando tenga
+23:54
+al tanto al personal técnico y la
+23:56
+competencia de poder calibrar
+23:58
+los equipos o los instrumentos correcto
+24:03
+aquí libra pues en este caso el equipo
+24:06
+de medición la balanza tendría que ser
+24:08
+calibrado
+24:11
+una vez que se calibra se emite también
+24:14
+un certificado como evidencia de que ha
+24:17
+sido calibrado y también pues ha sido
+24:20
+calibrado y ha tenido como explicaban en
+24:24
+el vídeo alguna intervención si alguna
+24:27
+intervención y también una una
+24:32
+comprobación con respecto
+24:36
+por ejemplo está marcando lo el peso
+24:39
+correcto con respecto a una masa patrón
+24:43
+o un peso 4 continuamos con
+24:47
+7 unos recursos en donde la organización
+24:49
+debe asegurarse de que los recursos
+24:51
+proporcionados
+24:53
+son apropiados para el tipo específico
+24:57
+de actividades de seguimiento y medición
+24:59
+realizadas
+25:02
+se mantienen para asegurarse la
+25:04
+idoneidad continua para su propósito y
+25:07
+también la organización la empresa debe
+25:09
+de conservar información documentada
+25:11
+apropiada como evidencia de los recursos
+25:14
+de seguimiento y medición
+25:16
+que son idóneos para su propósito sí qué
+25:20
+documentación
+25:21
+podemos conservar podemos conservar los
+25:25
+registros los registros de las
+25:27
+calibraciones los registros de la
+25:29
+verificación que se realiza en los
+25:32
+recursos de seguimiento y medición con
+25:34
+respecto a la trazabilidad
+25:38
+cuando la trazabilidad de las mediciones
+25:40
+es un requisito o es considerado por la
+25:45
+organización como una parte esencial
+25:47
+para proporcionar la confianza en la
+25:51
+validez de los resultados de la medición
+25:52
+este equipo de medición debe calibrarse
+25:56
+o verificarse o ambas a intervalos
+26:01
+especificados o antes de su utilización
+26:04
+contra patrones de medición trazables a
+26:08
+patrones de medición internacionales o
+26:10
+nacionales
+26:12
+y en el caso de no existir tales
+26:15
+patrones se debe conservar como
+26:18
+información documentada la base
+26:19
+utilizada para la calibración y la
+26:22
+verificación
+26:23
+entonces cuando la trazabilidad es un
+26:25
+requisito la trazabilidad
+26:30
+por decir la rastreabilidad si yo hago
+26:33
+trazabilidad cuando puedo ir por ejemplo
+26:36
+cuando tengo un producto final ese
+26:39
+producto final es tratable cuando sé que
+26:44
+por ejemplo que el lote de materia prima
+26:46
+se ha utilizado cuando se porque la
+26:48
+línea de producción pasó a ese producto
+26:50
+cuando sé cuáles han sido los por
+26:54
+ejemplo los operadores que han
+26:55
+intervenido en cada una de las máquinas
+26:57
+para que pase ese producto cuando sé con
+27:00
+qué equipo de medición pues ha sido
+27:05
+medido ese producto si entonces hay
+27:09
+trazabilidad cuando yo puedo ir hacia
+27:12
+atrás y puedo verificar puedo ver hay
+27:15
+evidencia de que por ejemplo con que el
+27:19
+lote de materia prima
+27:20
+ha sido elaborado cuáles han sido por
+27:24
+qué máquinas ha pasado en qué turnos
+27:26
+quién ha sido el operador de dicha
+27:28
+máquina me explico entonces esa es la
+27:31
+trazabilidad
+27:32
+entonces aquí cuando la trazabilidad de
+27:35
+las mediciones es un requisito o es
+27:38
+considerada por la organización como una
+27:40
+parte esencial
+27:41
+para que para proporcionar confianza en
+27:46
+la validez de los resultados de la
+27:47
+medición el equipo de medición debe
+27:50
+calibrarse o verificarse o ambas
+27:55
+a intervalos especificados y qué quiere
+27:58
+decir ello que el equipo se debe de
+28:02
+calibrar o se debe de verificar a
+28:04
+ciertos intervalos si entra con cierta
+28:07
+frecuencia esta frecuencia quien la
+28:09
+define esta frecuencia
+28:12
+se define en base
+28:15
+con base a la luz o a la frecuencia de
+28:19
+uso
+28:19
+correcto
+28:22
+y también nos puede sugerir el mismo
+28:26
+proveedor que nos ha proporcionado el
+28:30
+equipo nos puede sugerir una frecuencia
+28:34
+para poder calibrar o poder verificar
+28:37
+dicho equipo
+28:39
+correcto entonces el equipo de medición
+28:42
+debe calibrarse o verificarse o ambas a
+28:46
+intervalos especificados o antes de su
+28:48
+utilización contra que contra patrones
+28:52
+de medición trazables sea para patrones
+28:55
+de medición pues internacionales o
+28:57
+nacionales cuando no existan tales
+29:00
+patrones en qué casos nos puede existir
+29:03
+tales patrones cuando por ejemplo la
+29:05
+medición es muy específica es muy
+29:07
+especializada
+29:10
+no sé por ejemplo cuando es estamos
+29:13
+hablando de una industria del desarrollo
+29:15
+de tecnologías y necesitamos por ejemplo
+29:19
+un caso hipotético de un equipo de
+29:23
+equipo láser si un equipo láser de un
+29:28
+espectro especial entonces no
+29:31
+encontramos por ejemplo algún patrón
+29:33
+para este equipo ahí en ese caso cuando
+29:36
+no existan patrones debe de conservarse
+29:40
+como información documentada la base
+29:42
+utilizada para la calibración o la
+29:44
+verificación también debe de
+29:47
+identificarse para determinar su estado
+29:50
+entonces esos equipos de seguimiento y
+29:52
+de medición deben de identificarse
+29:57
+una buena práctica es asignarle un
+30:00
+código un código por ejemplo un código
+30:05
+alfanumérico
+30:06
+y un código que tenga
+30:09
+por ejemplo
+30:11
+las primeras dos tres letras del área
+30:15
+donde está siendo usada y el correlativo
+30:18
+y un número correlativo de cuantos
+30:21
+instrumentos
+30:22
+cuántos equipos de seguimiento de
+30:25
+medición tiene dicha área ese puede ser
+30:27
+un tipo de código existen otros códigos
+30:30
+diversos si las empresas y la
+30:34
+organización tiene pocos e instrumentos
+30:38
+imagínense que son pues 10 de 10 a 20
+30:41
+instrumentos aquí fácilmente podemos
+30:43
+darle asignarle un código un código
+30:45
+relativo un código numérico el
+30:47
+correlativo
+30:50
+en cambio si tenemos por ejemplo
+30:53
+más de 100 instrumentos de medición pues
+30:56
+es recomendable que sea
+31:00
+alfanumérico o un código que la
+31:03
+organización misma haya establecido y
+31:05
+que le permita pues identificar de una
+31:08
+manera
+31:10
+eficaz y eficiente su instrumento de
+31:13
+medición ahora en esta identificación es
+31:16
+muy importante señalar que me va a
+31:20
+servir como nexo para yo poder
+31:24
+y saber con ese código cuando ha sido su
+31:27
+última fecha de calibración o de
+31:28
+verificación
+31:30
+quien ha sido el
+31:32
+proveedor de este instrumento
+31:35
+por ejemplo cuál es el número el código
+31:39
+del certificado de calibración si todo
+31:43
+ello cuando le toca la próxima
+31:45
+calibración o la próxima verificación
+31:47
+también debe de protegerse contra
+31:49
+ajustes
+31:51
+daño o deterioro
+31:53
+que pueda que pudieran invalidar el
+31:57
+estado de calibración y los posteriores
+32:00
+resultados de la medición
+32:02
+asimismo la organización debe determinar
+32:06
+si la validez de los resultados de
+32:08
+medición previos se ha visto afectada de
+32:11
+manera adversa cuando el equipo de
+32:13
+medición se considere no apto para su
+32:16
+propósito previsto en este caso se debe
+32:20
+tomar acciones adecuadas cuando sea
+32:23
+necesario continuamos con conocimientos
+32:26
+de la organización la organización debe
+32:29
+determinar los conocimientos necesarios
+32:31
+para la operación de sus procesos y para
+32:34
+lograr la conformidad de los productos y
+32:37
+servicios estos conocimientos deben de
+32:40
+mantenerse y ponerse a disposición en la
+32:43
+medida que sea necesario
+32:45
+cuando se aborda las necesidades y
+32:47
+tendencias cambiantes la organización
+32:50
+debe considerar con los límites actuales
+32:52
+y determinar cómo va a adquirir o cómo
+32:55
+va a acceder a los conocimientos
+32:57
+adicionales necesarios y a las
+33:00
+actualizaciones requeridas correcto
+33:03
+entonces aquí en el requisito 7 16
+33:06
+conocimientos de la organización aquí la
+33:09
+empresa la organización debe determinar
+33:11
+cuáles son esos conocimientos necesarios
+33:14
+para que puedan operar los procesos y
+33:17
+lograr la conformidad tanto en los
+33:20
+productos como en los servicios
+33:23
+ahora esta gestión del conocimiento
+33:25
+lo basamos pues en cuatro pilares de
+33:30
+esta gestión y de conocimiento lo
+33:31
+hacemos en el capital humano en el
+33:34
+aprendizaje organizacional
+33:38
+en los activos intangibles y también
+33:42
+pues en el capital intelectual que
+33:45
+maneja la organización
+33:46
+mencionar también que los conocimientos
+33:49
+que la organización
+33:53
+estos conocimientos pues son
+33:55
+conocimientos específicos y
+33:58
+conocimientos que adquiere la
+33:59
+organización son unos conocimientos
+34:00
+específicos
+34:03
+y que se adquieren generalmente con la
+34:06
+experiencia porque son específicos
+34:09
+porque la empresa dentro de su rubro
+34:13
+pues está desarrollando sus productos
+34:18
+está innovando está por ejemplo
+34:20
+desarrollando productos nuevos y los
+34:23
+conocimientos que va adquiriendo son
+34:26
+conocimientos muy específicos por qué
+34:28
+por qué lo está haciendo bajo sus
+34:30
+propias condiciones bajo sus propios
+34:33
+equipos con su propio personal
+34:37
+con materia prima que ha decidido pues
+34:41
+establecer que ha decidido puedes probar
+34:44
+que ha decidido innovar sí entonces es
+34:48
+muy específico por la mano de obra por
+34:51
+los materiales por los procesos por los
+34:53
+equipos por las condiciones y esa
+34:58
+información que se utiliza y se comparte
+35:00
+para lograr los objetivos de la
+35:02
+organización
+35:04
+y los conocimientos de la organización
+35:08
+nuestros conocimientos en la empresa
+35:10
+pueden basarse en dos fuentes en fuentes
+35:13
+internas y en fuentes externas en las
+35:17
+fuentes internas tenemos la propiedad
+35:20
+intelectual los conocimientos adquiridos
+35:23
+con la experiencia
+35:26
+las lecciones aprendidas de lecciones
+35:29
+aprendidas tanto como tanto de los
+35:32
+éxitos de los proyectos que han tenido
+35:34
+éxito como también los proyectos que han
+35:36
+fracasado
+35:38
+de ambos en ambos casos en ambas
+35:40
+situaciones vamos a tener lecciones
+35:42
+aprendidas
+35:43
+conocimientos y experiencia no
+35:46
+documental
+35:49
+estos conocimientos esta experiencia del
+35:52
+personal por ejemplo
+35:56
+estábamos en una auditoría en una
+36:00
+empresa que tiene poco más de 60 años si
+36:05
+existe personal operativo con 20 30 años
+36:09
+de servicio entonces este conocimiento y
+36:12
+esta experiencia de este personal
+36:16
+a veces no es documentado este personal
+36:19
+conoce cómo funciona la máquina conoce
+36:22
+por llamarlo de una manera cuáles son
+36:26
+los los trucos que tiene cierta máquina
+36:30
+sí o cómo de qué manera regula
+36:34
+si de repente su proceso está muy
+36:36
+fluctuante y de qué manera pues lo
+36:38
+estabiliza de qué manera lo regula
+36:41
+entonces este conocimiento del personal
+36:44
+que tiene pues mucha experiencia y
+36:47
+conocimiento
+36:49
+generalmente no es documentado y también
+36:53
+los resultados de las mejoras mejoras
+36:55
+tanto de procesos mejoras en los
+36:56
+productos mejoras en los servicios si
+36:59
+estas son las fuentes internas del
+37:01
+conocimiento de la organización
+37:03
+y continuamos con las fuentes externas
+37:09
+son las normas
+37:11
+la academia las conferencias y la
+37:16
+recopilación de conocimientos
+37:19
+correcto recopilación de conocimientos
+37:21
+tanto del cliente como también de los
+37:25
+proveedores
+37:26
+normas aquí puede ser la
+37:30
+norma todo tipo de norma normatividad sí
+37:34
+academia lo que por ejemplo tanto la
+37:37
+academia
+37:40
+llevándolo un enfoque educativo un
+37:43
+enfoque académico si el enfoque
+37:46
+profesional
+37:48
+como también pueden ser las
+37:51
+universidades pueden brindar con sus
+37:53
+investigaciones
+37:54
+pueden brindar pues algún avance pueden
+37:57
+brindar algunas
+38:00
+tesis para mejorar los procesos los
+38:02
+procesos
+38:04
+de la organización
+38:06
+conferencias porque en las conferencias
+38:09
+generalmente los ponentes y los speakers
+38:13
+les brindan una brindan tendencias
+38:18
+brindan pues
+38:20
+información que le puede ser útil a la
+38:23
+empresa que le puede ser útil a sus
+38:25
+procesos y también pues hablamos de la
+38:27
+recopilación de conocimientos tanto para
+38:30
+tanto de los clientes como de
+38:33
+proveedores
+38:36
+si entonces ya hemos revisado el tema de
+38:39
+fuentes internas y fuentes externas con
+38:43
+respecto a el conocimiento de la
+38:46
+organización
+38:47
+continuamos con competencia si hemos
+38:51
+hablado de recursos ahora vamos a
+38:54
+continuar con el sub capítulo de
+38:57
+competencia aquí vamos a revisar otro
+39:00
+vídeo con respecto a la competencia
+39:02
+personal para entender un poco el
+39:05
+concepto cuál es el enfoque
+39:08
+da iso9001 con respecto a la competencia
+39:14
+[Música]
+39:15
+y
+39:17
+formación virtual el team competencia
+39:20
+del personal las personas son la clave
+39:24
+del desarrollo y crecimiento de las
+39:26
+organizaciones ellas generan ideas y las
+39:29
+implementan consiguen clientes
+39:31
+desarrollan los procesos innovan los
+39:34
+productos prestan los servicios evitan
+39:37
+los riesgos entre muchas acciones más
+39:41
+así que las organizaciones deben
+39:43
+asegurarse que el personal que está bajo
+39:45
+su control es capaz de lograr excelentes
+39:47
+desempeños y es competente para
+39:50
+desarrollar su labor
+39:51
+competencia basada en la educación
+39:53
+experiencia o formación adecuada
+39:56
+por educación entendemos los estudios de
+39:59
+educación formal que una persona debe
+40:02
+tener para un determinado cargo o rol la
+40:04
+experiencia hace referencia al tiempo
+40:07
+mínimo que una persona lleva realizando
+40:09
+una labor y por formación entendemos
+40:12
+aquellos conocimientos específicos que
+40:14
+son necesarios para desempeñar una labor
+40:16
+ejemplo el manejo de ciertas
+40:19
+herramientas tecnológicas
+40:21
+si los trabajadores no tienen la
+40:23
+competencia requerida se deben tomar
+40:25
+acciones para adquirir las acciones
+40:27
+tales como formación tutorías
+40:31
+reasignación con la contratación de
+40:33
+nuevas personas la eficacia de estas
+40:36
+acciones deben ser evaluadas para
+40:38
+verificar que dichas necesidades han
+40:40
+sido cubiertas
+40:41
+los buenos desempeños se alcanzan no
+40:44
+sólo cuando el personal es competente
+40:47
+también cuando son conscientes de los
+40:50
+objetivos y metas a alcanzar los
+40:53
+desempeños esperados las políticas y los
+40:56
+procedimientos corporativos y las
+40:58
+implicaciones del incumplimiento de un
+41:00
+requisito
+41:02
+de igual forma la alta dirección debe
+41:05
+asegurarse que las responsabilidades y
+41:08
+autoridades para los roles pertinentes
+41:10
+queden asignadas sean comunicadas y sean
+41:14
+entendidas
+41:15
+la responsabilidad se puede definir como
+41:19
+el compromiso o la obligación para hacer
+41:21
+algo o para lograr un resultado esperado
+41:24
+suele especificarse en los manuales de
+41:26
+cargo en los procedimientos o en los
+41:28
+planes de trabajo
+41:30
+la autoridad se define como la potestad
+41:33
+que tiene un individuo de tomar una
+41:35
+decisión en la que tiene la función de
+41:37
+mandar obedecer y generalmente se
+41:40
+representa de manera visual en un
+41:42
+organigrama
+41:43
+escribir claramente metas roles y
+41:46
+funciones así como los niveles de
+41:49
+autoridad y responsabilidad de un puesto
+41:51
+de trabajo previene errores y
+41:53
+confusiones en la realización de las
+41:55
+actividades del día a día
+41:58
+además economizar recursos en el proceso
+42:00
+de inducción y reentrenamiento
+42:04
+formación virtual elvin competencia del
+42:07
+personal muy bien hemos revisado la
+42:11
+competencia en donde hemos
+42:16
+ha observado que existen tres pilares en
+42:19
+los cuales iso 9.001 se basa para
+42:23
+nominar a la competencia
+42:26
+dentro de los requisitos que tiene la
+42:29
+norma la organización debe determinar la
+42:32
+competencia necesaria de las personas
+42:35
+que realizan bajo su control un trabajo
+42:38
+que afecta al desempeño y eficacia del
+42:41
+sistema de gestión de la calidad
+42:44
+la organización debe de asegurarse de
+42:47
+que estas personas
+42:48
+sean competentes basándose en educación
+42:53
+formación o experiencia
+42:55
+si en este caso la norma nos habla
+42:58
+cualquiera de las tres nos deja abierta
+43:01
+la posibilidad porque nos menciona
+43:03
+educación formación o experiencia
+43:06
+si en la mayoría de las organizaciones
+43:09
+lo toma toman los tres criterios si
+43:12
+vamos a ver más adelante que en los
+43:14
+perfiles de puesto efectivamente
+43:18
+establecen educación establece
+43:21
+información y también solicitan
+43:23
+experiencia entonces estos tres pilares
+43:26
+de educación como hemos visto es la
+43:28
+educación formal que nosotros recibimos
+43:30
+en colegios e
+43:34
+institutos en universidades si la
+43:37
+formación es más específico correcto por
+43:41
+ejemplo estos cursos son de formación
+43:43
+porque porque nos brindan información
+43:45
+específica en este caso de iso 9001 y
+43:49
+sus requisitos puede haber otro curso de
+43:51
+formación como por ejemplo el office
+43:54
+como por ejemplo un software en un
+43:58
+especial que necesitemos para realizar
+44:00
+nuestras actividades
+44:02
+y la experiencia pues es
+44:05
+sueños adquiridos
+44:07
+en el tiempo sí en el cual pues nos
+44:12
+hemos desempeñado realizando ciertas
+44:14
+actividades en cuanto de ex cuántos años
+44:17
+de experiencia es solicitan por ejemplo
+44:20
+para el puesto de un analista o el
+44:22
+puesto de un supervisor el puesto de un
+44:24
+coordinador
+44:25
+correcto entonces en estos tres pilares
+44:30
+es así como la norma define competencia
+44:33
+ahora
+44:35
+relacionando la competencia con la
+44:38
+capacitación y la toma de conciencia
+44:40
+nosotros
+44:42
+observamos en este en esta pirámide el
+44:45
+desarrollo pues va desde la capacitación
+44:48
+que lo tenemos en la base que es cuando
+44:50
+el personal sabe el personal tiene
+44:53
+conocimiento adquiere conocimiento si en
+44:57
+el segundo nivel tenemos pues la
+44:58
+competencia cuando la persona sabe y
+45:01
+puede hacerlo
+45:03
+correcto si puede hacerlo
+45:07
+en el tercer nivel tenemos ya la
+45:09
+conciencia en donde el personal sabe al
+45:12
+personal puede hacerlo porque tiene los
+45:15
+medios porque tienen los recursos sí y
+45:19
+quiere hacerlo tiene la convicción de
+45:21
+realizarlo de esa manera
+45:23
+entonces en este en esta pirámide vemos
+45:27
+cómo estamos relacionando la
+45:29
+capacitación cuando un personal sabe
+45:31
+cuándo recibe estos conocimientos la
+45:34
+competencia cuando sabe puede puede por
+45:36
+qué porque tiene los recursos tiene las
+45:39
+herramientas tiene pues las condiciones
+45:42
+para poder desarrollar sus actividades y
+45:45
+cuando es consciente es cuando sabe
+45:47
+cuándo puede y cuándo quiere cuando
+45:49
+tiene esta convicción
+45:50
+continuamos con competencia cuando sea
+45:54
+aplicable tomar acción para adquirir
+45:56
+esas competencias necesarias y evaluar
+45:59
+la eficacia de las acciones tomadas
+46:01
+entonces hemos visto en el en el ejemplo
+46:05
+del vídeo cuando qué pasa cuando un
+46:09
+personal no tiene la competencia por
+46:11
+ejemplo no tiene el tema de formación se
+46:14
+le puede brindar formación sí
+46:17
+y se evalúa si efectivamente la
+46:21
+formación brindada fue eficaz está
+46:24
+aplicando su puesto de trabajo correcto
+46:28
+también conservar esta información
+46:30
+documentada apropiada como evidencia de
+46:32
+la competencia que puede ser evidencia
+46:36
+los certificados de estudio o un
+46:40
+certificado laboral si los certificados
+46:44
+de la formación que tiene este personal
+46:48
+para la experiencia mencionamos ya el
+46:50
+certificado laboral que indica pues la
+46:53
+cantidad de años requeridas necesarias
+46:55
+para el puesto de trabajo en las
+46:57
+acciones aplicables pueden incluir por
+47:00
+ejemplo la formación de tutoría la
+47:03
+reasignación de personas empleadas
+47:04
+actualmente la contratación o
+47:06
+subcontratación de personas competentes
+47:10
+porque nos enfocamos en la formación
+47:13
+porque
+47:15
+porque no a la educación o porque no es
+47:17
+la experiencia
+47:20
+a ver empezando
+47:22
+en la experiencia que pasa así por
+47:24
+ejemplo en vuestro de coordinador a un
+47:26
+puesto de jefatura yo indicó que
+47:28
+necesito tener
+47:30
+necesito que el perfil del puesto tenga
+47:33
+pues no sé
+47:35
+cinco años de experiencia
+47:39
+si vamos a contratar o si la persona que
+47:42
+hemos contratado solamente tiene un año
+47:45
+de experiencia pues no está cumpliendo
+47:47
+con el perfil de puesto sí
+47:52
+en este caso es como acción es un tanto
+47:56
+difícil y darle una experiencia porque
+47:58
+la experiencia pues que que la brecha de
+48:02
+experiencia que hay es de cuatro años
+48:05
+del ejemplo que estamos dando con
+48:07
+respecto a la educación
+48:10
+si a la educación por ejemplo yo
+48:12
+necesito un jefe que tenga pues maestría
+48:16
+como que tengo una maestría por ejemplo
+48:18
+no sé en gestión gerencia de calidad
+48:21
+entonces la persona que he contratado la
+48:25
+persona que está en el puesto
+48:27
+está con un grado de bachiller sí
+48:30
+entonces ahí para que la persona pueda
+48:33
+tener este este grado de maestría pues
+48:36
+demanda de cierto tiempo porque necesita
+48:40
+tener el título luego necesita estudiar
+48:43
+la maestría y sacar el grado de maestro
+48:45
+explicó entonces ahí el tiempo es
+48:49
+se dilata en mucho más que si solamente
+48:53
+fuese formación en la formación es más
+48:56
+específico entonces de toma acción a un
+48:59
+corto plazo correcto si toma acción un
+49:03
+corto plazo y pues en este caso es más
+49:07
+factible realizar esta formación tomar
+49:11
+esta formación que que la brecha que
+49:13
+exista entre la persona que está en el
+49:17
+puesto con su perfil no sea tan
+49:21
+significativa como sí lo puede ser con
+49:24
+la educación como hemos visto o con la
+49:26
+experiencia y aquí tenemos un ejemplo
+49:31
+de puesto o un perfil en este caso en
+49:36
+este ejemplo tenemos el puesto de
+49:39
+gerente general y ahí observamos el
+49:42
+objetivo el planear coordinar dirigir
+49:44
+supervisar las áreas de producción
+49:48
+sus principales funciones
+49:52
+del puesto son
+49:55
+y administrar los recursos humanos
+49:57
+financieros y materiales de la empresa
+49:59
+regular las políticas realizar
+50:02
+negociaciones de venta y
+50:04
+comercialización de productos las
+50:06
+relaciones que tienen el trabajo pues
+50:08
+interno con todo el personal externo con
+50:10
+proveedores clientes distribuidores el
+50:13
+nivel académico requerido aquí tenemos
+50:15
+educación graduado universitario
+50:18
+experiencia profesional dos años en
+50:21
+cargos gerenciales
+50:23
+destrezas técnicas y conocimientos
+50:25
+especiales zee capacidad en toma de
+50:29
+decisión trabaja en equipo técnicas de
+50:31
+negociación
+50:32
+conocimiento de administración
+50:33
+injerencia aquí ya serían pues la
+50:36
+formación que es algo más específico y
+50:38
+las características personales que
+50:41
+solicito si entonces en este perfil
+50:46
+y observamos
+50:49
+los tres pilares de competencia paraíso
+50:51
+1001 que son el nivel académico la
+50:54
+educación experiencia
+50:57
+la formación y la formación dentro pues
+51:00
+de estos conocimientos especiales
+51:05
+continuamos con el siguiente punto
+51:09
+tomada de conciencia entonces hasta
+51:12
+ahora hemos revisado
+51:14
+recursos sin recursos y también hemos
+51:18
+revisado competencia
+51:21
+ahora vamos a revisar la toma de
+51:24
+conciencia
+51:27
+vamos a observar aquí tenemos otro vídeo
+51:30
+para poder entender un poco más el
+51:33
+concepto de toma de conciencia
+51:36
+[Música]
+51:36
+[Aplausos]
+51:40
+[Música]
+51:43
+bienvenidos al apartado 7.3 denominado
+51:46
+toma de conciencia el cual es vital para
+51:48
+asegurar el principio de calidad
+51:49
+relacionado a la participación de las
+51:51
+personas
+51:52
+las organizaciones buscan frecuentemente
+51:55
+trabajadores comprometidos con el fin de
+51:57
+asegurar la conformidad de los productos
+51:58
+y servicios y de mantener las buenas
+52:00
+prácticas
+52:01
+los requisitos de la norma iso9001 deben
+52:04
+interiorizarse más allá de ser un
+52:06
+conjunto de lineamientos que deben ser
+52:07
+aprendidos de memoria es decir que los
+52:09
+valores de la organización se
+52:11
+desarrollen en un ambiente de calidad la
+52:13
+organización debe procurar que las
+52:15
+personas autónomamente se interesen y
+52:16
+evidenciar su compromiso con la eficacia
+52:18
+a través de la toma de conciencia ve
+52:21
+la política de calidad el apartado 5.2
+52:24
+determina que ésta debe ser comunicada
+52:26
+entendida y aplicada por lo que la
+52:29
+organización debe hacer esfuerzos a
+52:30
+través de la toma de conciencia
+52:33
+también se ve tomar conciencia de los
+52:35
+objetivos de calidad pertinentes para
+52:36
+cada proceso como vemos en el desarrollo
+52:39
+del apartado 6.2 los procesos hacen una
+52:42
+labor importante dentro de cada objetivo
+52:43
+de calidad los trabajadores deben
+52:46
+conocer cómo contribuyen al cumplimiento
+52:47
+del objetivo y calidad al que pertenecen
+52:50
+asimismo los trabajadores deben tener
+52:52
+claridad en su contribución a la
+52:54
+eficacia del sistema de edición de
+52:56
+calidad para eso los trabajadores deben
+52:59
+conocer sus responsabilidades y los
+53:01
+criterios para decir si su desempeño fue
+53:03
+el adecuado o puede mejorar
+53:06
+también deben tomar conciencia de las
+53:08
+implicaciones del cumplimiento de los
+53:10
+requisitos del sistema de visión de
+53:11
+calidad están relacionados con las
+53:13
+consecuencias de los riesgos como vimos
+53:15
+en el apartado 6.1 estas pueden variar
+53:18
+desde aspectos básicos hasta críticos
+53:20
+pueden haber consecuencias relacionadas
+53:22
+a re procesos demandas sanciones entre
+53:24
+otros
+53:26
+conocer las implicaciones de
+53:27
+incumplimiento puede persuadir a los
+53:29
+trabajadores a evitar conductas que
+53:30
+lleven a esto
+53:32
+pero como podemos hacer para que los
+53:34
+trabajadores tomen conciencia que
+53:36
+herramientas se pueden utilizar la norma
+53:38
+no determina mecanismos de forma
+53:39
+explícita pero podemos hacer uso de
+53:41
+elementos como
+53:43
+folletos vídeos o información impresa
+53:47
+capacitaciones
+53:50
+talleres grupales dinámicas o juegos
+53:52
+entre otros
+53:54
+la norma iso9001 me invita a imponerse
+53:57
+sobre los trabajadores sino hacerlos
+53:59
+partícipes del sistema de gestión de
+54:01
+calidad por lo que innovar en la toma de
+54:03
+conciencia permitirá tener trabajadores
+54:05
+más comprometidos
+54:06
+[Música]
+54:07
+con esto finalizamos el apartado 7.3 nos
+54:10
+vemos en un próximo vídeo hasta pronto
+54:12
+bien entonces
+54:15
+hemos revisado un poco más el
+54:18
+concepto de toma de conciencia
+54:21
+aquí la norma nos indica que la
+54:24
+organización debe asegurarse de que las
+54:26
+personas que realizan el trabajo bajo el
+54:29
+control de la organización tomen
+54:31
+conciencia de la política de la calidad
+54:34
+recordemos que lo hemos revisado en el
+54:36
+capítulo 5 si la política de la calidad
+54:40
+es el documento en donde se
+54:42
+expresan los compromisos los diferentes
+54:45
+compromisos si y de qué manera los
+54:48
+cumplimos los cumplimos a través de los
+54:50
+objetivos y los objetivos de la calidad
+54:53
+por qué porque la política recordemos
+54:56
+que es el marco de referencia para los
+54:58
+objetivos establecemos los objetivos y
+55:00
+de esta manera estamos tan civilizado
+55:04
+cada compromiso que ha sido
+55:06
+expuesto en la política de la calidad
+55:11
+y los objetivos de la calidad por
+55:13
+pertinentes entonces el personal tiene
+55:16
+que tomar conciencia de la política
+55:19
+cuáles son estos compromisos y cuáles
+55:21
+son los objetivos la calidad pertinentes
+55:23
+y cuáles son los objetivos de la calidad
+55:24
+en cada uno de sus puestos de trabajo
+55:27
+correcto es por ejemplo en el área de
+55:29
+producción por ejemplo en el área de
+55:31
+logística por ejemplo en el área de
+55:33
+recursos humanos en el área de calidad
+55:34
+el área de laboratorio entre otros la
+55:39
+contribución a la eficacia del sistema
+55:41
+de gestión de la calidad incluido los
+55:43
+beneficios de una mejora del desempeño
+55:46
+tiene que tomar conciencia de cuál es su
+55:49
+contribución a la eficacia del sistema
+55:51
+de gestión de la calidad como hemos
+55:53
+indicado en anteriores sesiones el
+55:56
+sistema de gestión de la calidad somos
+55:58
+todos correcto todos hacemos calidad de
+56:01
+la empresa no solamente lo hace el
+56:03
+practicante de calidad o el asistente de
+56:06
+calidad o el analista o el jefe el
+56:09
+coordinador
+56:10
+sino que todos si todos desde cada s
+56:14
+cada uno de nosotros desde nuestros
+56:17
+puestos de trabajo de qué manera
+56:19
+haciendo correctamente sus actividades
+56:22
+siguiendo los estándares siguiendo los
+56:24
+procedimientos los instructivos midiendo
+56:27
+cada hora que indican que se debe de
+56:30
+medir por ejemplo el estándar me dice
+56:31
+tienes que medir tres veces por turno
+56:33
+entonces yo realizó esa medición tres
+56:35
+veces por turno tienes que utilizar el
+56:37
+instrumento verificando también el
+56:40
+instrumento usted pues calibrado tengo
+56:42
+alguna señal de que esté apto para
+56:44
+operar si de esa manera cada uno
+56:48
+contribuye con la eficacia el sistema de
+56:50
+gestión de la calidad proponiendo
+56:52
+mejoras
+56:54
+y siempre comunicando comunicando cuáles
+56:57
+son las cuál es el estado de la
+57:00
+maquinaria de los equipos de qué manera
+57:03
+se puede mejorar correcto de las
+57:06
+implicaciones del incumplimiento de los
+57:08
+requisitos de la gestión de la calidad
+57:10
+por un lado conocer de qué manera
+57:12
+contribuyó ts mis puestos de trabajo
+57:15
+incluidos cuáles son esos beneficios de
+57:18
+la mejora del desempeño y cuál es el
+57:20
+beneficio de que el cliente esté
+57:22
+satisfecho de que estamos superando las
+57:25
+expectativas del cliente
+57:28
+es un beneficio también poder
+57:30
+incursionar en nuevos mercados de
+57:33
+repente tener a nuevos clientes a
+57:35
+clientes más exigentes
+57:37
+correcto y en el segundo literal en mi
+57:41
+canal de las implicaciones del
+57:43
+incumplimiento de los requisitos del
+57:45
+sistema en la gestión de la calidad así
+57:47
+como conocemos cuáles son estos
+57:50
+beneficios también debemos de saber
+57:52
+tener conciencia y cuáles son las
+57:55
+implicancias del incumplimiento qué pasa
+57:58
+si no cumplimos con el estándar qué pasa
+58:01
+si le entregamos a un cliente pues en la
+58:03
+cantidad
+58:04
+por ejemplo yo he pedido mil entregamos
+58:07
+solamente 500 del producto que haya
+58:10
+solicitado si si tiene defectos qué
+58:15
+y que el mismo cliente pues especificado
+58:17
+que no debería de tener
+58:19
+cuáles son esas implicancias del
+58:21
+incumplimiento
+58:22
+correcto de no cumplir con cantidad con
+58:25
+fecha establecida correcta entonces
+58:29
+continuamos continuamos con el siguiente
+58:32
+su capítulo
+58:35
+comunicación
+58:37
+si continuamos con comunicación
+58:41
+la organización debe determinar las
+58:43
+comunicaciones internas y externas
+58:47
+pertinentes al sistema de gestión de la
+58:49
+calidad que incluya
+58:52
+que comunicar cuando comunicar a quien
+58:56
+comunicar cómo comunicar quién comunica
+59:00
+si entonces debemos determinar las
+59:04
+comunicaciones internas y externas
+59:06
+tenemos que hacer una diferencia cuando
+59:09
+es una comunicación interna cuando es
+59:11
+una comunicación externa y deben de
+59:13
+incluir pues estos cinco agentes que
+59:16
+comunicar que sería el mensaje cuando
+59:18
+comunicar con qué frecuencia se comunica
+59:22
+a quien comunicar quién va a ser el
+59:24
+receptor del mensaje cómo comunicar de
+59:27
+qué manera de qué forma
+59:30
+cuál es el canal que en el que vamos a
+59:33
+transmitir el mensaje pues a través de
+59:35
+afiches puede ser en mural puede ser en
+59:38
+protector de pantalla puede ser con
+59:41
+algún tríptico puede ser pues con
+59:43
+diversas formas diversas maneras de cómo
+59:47
+comunicar si es la manera es el medio
+59:50
+puede ser ahora que en algunos casos en
+59:53
+algunos procesos que se pueden trabajar
+59:56
+de forma remota siendo cómodo fis la
+59:59
+comunicación se está dando pues a través
+60:01
+de grupos de whatsapp por ejemplo es una
+60:03
+manera rápida de transmitir un mensaje
+60:06
+mandando pues algunas comunicaciones
+60:08
+mediante esa vía mediante esa forma si a
+60:12
+quién y quién lo comunica quién es la
+60:14
+persona responsable de comunicar lo
+60:18
+correcto
+60:19
+entonces aquí tenemos un ejemplo para
+60:23
+entenderlo un poquito más y que no quede
+60:25
+así
+60:26
+en la
+60:27
+que no te dé forma
+60:31
+así como que en la nebulosa aquí tenemos
+60:34
+un ejemplo en el cual se elabora una
+60:38
+matriz de comunicaciones sí y aquí está
+60:41
+quien comunica que se comunica a quien
+60:43
+se comunica cómo se comunica
+60:46
+aquí tenemos quien comunica quién va a
+60:47
+ser el emisor que vásquez se va a
+60:49
+comunicar cuál cuál va a ser el mensaje
+60:52
+a quién se va a comunicar cómo se va a
+60:55
+comunicar alguna referencia quien le
+60:58
+elaborado que no ha probado fecha y
+61:00
+firma sí y por otro lado tenemos una
+61:04
+matriz de comunicaciones un tanto más
+61:07
+con mayor detalle así como ayuda detalle
+61:10
+en donde vamos a hacer vamos a mencionar
+61:12
+cuando es una comunicación interna
+61:14
+cuando es una comunicación externa el
+61:17
+tipo de comunicación
+61:19
+el mensaje que comunicar y el mensaje
+61:21
+que lo observamos ahí en la segunda
+61:23
+columna luego tenemos quién es el emisor
+61:26
+quien comunica el receptor a quién va a
+61:29
+comunicar y los canales cómo comunicar y
+61:32
+la periodicidad si cumple frecuencia
+61:36
+entonces en esta en este ejemplo en este
+61:40
+cuadro podemos observar que el tipo de
+61:43
+comunicación interna incluso nos dice
+61:46
+vertical descendente sería política por
+61:49
+ejemplo política de calidad es el
+61:51
+mensaje que massa el emisor pues
+61:55
+encargado de calidad quién va a ser el
+61:57
+receptor todo el personal esto se va a
+61:59
+dar mediante qué medios acá específica
+62:03
+reuniones colectivas a través de
+62:05
+tableros a través de la red sí y con qué
+62:09
+frecuencia cada nueva edición o sea cada
+62:12
+vez que se actualiza la política están
+62:15
+comunicando
+62:17
+como segundo mensaje tenemos la
+62:20
+modificación pues de
+62:22
+procedimientos de manuales de registros
+62:25
+quien lo va a comunicar también la
+62:28
+persona en radicalidad quien lo
+62:31
+recepción el personal igual de forma
+62:33
+colectiva en tableros en la red cada
+62:36
+nueva edición
+62:38
+un ejemplo de comunicación externa
+62:42
+tenemos aquí
+62:45
+los requisitos de cliente si a quien
+62:49
+quien lo emite pues el mismo cliente
+62:51
+quien lo recepción a en este caso la
+62:55
+recepción a calidad comercial si a
+62:59
+través de qué canales entonces esto lo
+63:02
+comunica a través de la red a través del
+63:05
+mail u otro medio y cuando sea necesario
+63:10
+cuando exista esta comunicación con el
+63:12
+cliente para entender mejor sus
+63:14
+requisitos y así poder
+63:17
+brindarle un servicio un producto de
+63:19
+calidad y poder es exceder sus
+63:22
+expectativas
+63:24
+y de la misma forma
+63:27
+cuando existen por ejemplo
+63:29
+consultas y o modificaciones de pedidos
+63:32
+si quien lo emite en este caso pues el
+63:36
+cliente y la recepción a comercial o
+63:39
+también puede ser del otro sentido si
+63:42
+cuando de verdad
+63:45
+mantenemos estas consultas o
+63:47
+modificaciones de pedidos igual el
+63:49
+comercial se quiere comunicar con el
+63:50
+cliente
+63:51
+correcto y lo hace a través de correos a
+63:54
+través de gente de otros medios puede
+63:56
+ser celular teléfono
+64:00
+el correo institucional y también cuando
+64:04
+existen acciones correctoras del cliente
+64:07
+sea calidad cuando se
+64:11
+cuando el mensaje es acerca de la
+64:14
+satisfacción del cliente cuando existe
+64:16
+una medición cuando existe algún alguna
+64:19
+información relevante que el cliente nos
+64:22
+nos
+64:24
+comenté sobre su satisfacción
+64:28
+y también puede ser la comunicación de
+64:31
+la certificación si esto es por parte de
+64:34
+calidad de los clientes para que tengan
+64:35
+en cuenta de que en el caso que la
+64:37
+empresa sea certificado cuenta con dicho
+64:41
+certificado valga la redundancia
+64:43
+certificado iso9001 en donde le puede
+64:46
+dar mayor confianza en que sus procesos
+64:50
+son estandarizados para brindar
+64:51
+productos y servicios
+64:55
+una forma constante y cumpliendo los
+64:58
+requisitos de los clientes
+65:01
+y entonces esta es una matriz de
+65:04
+comunicación con mayor detalle teniendo
+65:07
+en cuenta los requisitos que es lo que
+65:09
+pide la norma lo podemos hacer de esta
+65:12
+manera lo podemos hacer como de repente
+65:14
+queremos incluir más columnas que
+65:17
+debemos incluir mayor de mayor detalle a
+65:18
+qué áreas pertenece quién va a emitir el
+65:21
+mensaje a qué áreas pertenece cuándo lo
+65:24
+va a ser dar una fecha una fecha ya más
+65:28
+más específica hacer un cronograma no
+65:33
+por ejemplo si es va a ser por ejemplo
+65:37
+vamos a comunicar la política de la
+65:40
+calidad no necesariamente cada nueva
+65:42
+edición de repente yo soy una empresa
+65:44
+que sí que tengo alta rotación entonces
+65:47
+yo quiero comunicarlo pues para que
+65:49
+todos los colaboradores los nuevos
+65:51
+también se estén estén al tanto de ello
+65:53
+y luego por ejemplo cada mes o cada dos
+65:56
+meses si puedo colocar un cronograma
+65:58
+mensual o un cronograma que tenga los 12
+66:02
+meses del año con la fecha específica yo
+66:04
+digo que por ejemplo en enero en marzo
+66:07
+en mayo y así voy a comunicar la
+66:10
+política a dos meses comunicó la
+66:12
+política y voy chequeando si he cumplido
+66:15
+con esa comunicación se realizó si se
+66:17
+realizó la reunión si se comunicó por
+66:20
+red ser se colocó en los tableros en los
+66:23
+murales sí entonces decidí de esa forma
+66:27
+puedo agregarle más columnas puedo
+66:30
+agregarle más detalle en la medida que a
+66:32
+mí me ayude a gestionar este
+66:35
+mis comunicaciones si en la medida que
+66:37
+me agregue valor
+66:39
+con un ser saber todo ese detalle para
+66:42
+mejorar mis comunicaciones mi proceso de
+66:44
+comunicación sí
+66:46
+de repente lo puedo hacer
+66:49
+no sé de repente es una imaginación es
+66:52
+una pequeña empresa es una micro empresa
+66:54
+que los procesos también son
+66:56
+distintos son un tanto más significados
+67:00
+entonces puedo establecer las cinco
+67:03
+columnas que me está pidiendo la norma y
+67:05
+que hace hay que comunicar aquí en que
+67:09
+es el mensaje como cuando y con esas
+67:12
+columnas vamos empezando es un sistema
+67:14
+de gestión nuevo en la recomendación
+67:16
+sería pues empezar con lo que nos indica
+67:19
+la norma y poco a poco vamos a ir
+67:21
+mejorando vamos a ir colocando mayor
+67:23
+detalle para ir mejorando el proceso sí
+67:26
+y en la medida que ese mayor detalle que
+67:28
+esa información me agregue valor a mi
+67:31
+proceso correcto continuamos
+67:35
+con la información documentada el
+67:39
+sistema de gestión de la calidad de la
+67:41
+organización debe incluir la información
+67:43
+documentada requerida por esta norma
+67:46
+internacional
+67:49
+y la información documentada que la
+67:51
+organización determina como necesaria
+67:54
+para la eficacia del sistema de gestión
+67:56
+de la calidad entonces aquí lo que nos
+67:59
+dice la norma es de que se debe incluir
+68:01
+tanto la información que requiere la
+68:04
+norma
+68:05
+esta norma iso9001 en la versión 2015
+68:08
+como la información documentada que la
+68:12
+organización que la empresa determina
+68:14
+como necesario entonces el sistema de
+68:18
+gestión va a incluir tanto esta
+68:20
+información que
+68:21
+requiere la norma sí que requiere la
+68:24
+norma en la medida que se necesite
+68:27
+evidenciar el cumplimiento de los
+68:29
+requisitos de la norma y también la
+68:32
+información que la organización
+68:35
+determina como necesaria cuál es esta
+68:38
+información los procedimientos los
+68:40
+instructivos los formatos correcto
+68:43
+entonces la documentación del sistema de
+68:46
+gestión viene por
+68:49
+tanto el lo requerido por la norma como
+68:52
+lo la documentación que la organización
+68:54
+determina como necesaria dentro de esta
+68:58
+dentro de estos requisitos
+69:01
+también están contemplando pues los
+69:02
+requisitos legales porque responde que
+69:04
+hizo entre 1.001 también te indica
+69:07
+cumple con los requisitos normativos y
+69:09
+legales
+69:10
+correcto entonces aquí tenemos
+69:12
+requisitos legales tenemos requisitos de
+69:15
+la norma tendremos requisitos de la
+69:16
+organización y también recuerden que las
+69:19
+normas nos indica cumple con los
+69:20
+requisitos de tus clientes entonces
+69:22
+también implícito están los requisitos
+69:24
+del cliente
+69:25
+aquí la extensión de la información
+69:28
+documentada para un sistema de gestión
+69:29
+de la calidad puede variar de una
+69:32
+organización a otra debido a que a que
+69:36
+puede debido a qué motivo puede variar
+69:39
+debido al tamaño de la organización si
+69:43
+el tamaño de la organización y su tipo
+69:45
+de actividades procesos productos y
+69:47
+servicios
+69:49
+no es lo mismo tener un sistema de
+69:52
+gestión en una empresa pyme una empresa
+69:54
+pues en una micro empresa que tener un
+69:57
+sistema de gestión en una empresa grande
+70:00
+en una empresa transnacional si no es lo
+70:03
+mismo la extensión es distinta correcto
+70:06
+aquí he dependido bastante pues del
+70:08
+tamaño de la organización del tipo de
+70:10
+actividades procesos productos y
+70:13
+servicios
+70:15
+también debido a la complejidad de los
+70:18
+productos y sus interacciones
+70:21
+correcto y también debido a la
+70:24
+competencia de las personas para la
+70:27
+creación y actualización
+70:30
+de los documentos
+70:34
+al crear y actualizar la información
+70:37
+documentada la organización debe
+70:40
+asegurarse de que lo siguiente sea
+70:43
+apropiado
+70:47
+identificar y describir si tiene que
+70:49
+haber una identificación y una
+70:51
+descripción por ejemplo el título o la
+70:56
+fecha autor o algún número de referencia
+70:59
+debemos de identificar y que tenga pues
+71:02
+una descripción el formato el formato
+71:05
+como por ejemplo el idioma la versión
+71:08
+del software gráficos y los medios de
+71:11
+soporte tanto papel como electrónico es
+71:15
+importante mencionar que la información
+71:17
+documentada puede ser físico en papel y
+71:20
+se puede manejar también en digital si
+71:23
+es por medios electrónicos
+71:25
+ambos son válidos para el auditoria
+71:28
+podemos tener alguna información
+71:31
+documentada en digital como son los
+71:34
+procedimientos si los aprobamos a través
+71:36
+de firmas digitales y lo
+71:39
+comunicamos pues a través de correos lo
+71:42
+compartimos a través de correos y
+71:44
+hacemos las charlas las capacitaciones
+71:46
+también de forma virtual y en válido y
+71:49
+los registros los tenemos pues
+71:50
+imagínense en planta de producción el
+71:52
+registro si lo tenemos en forma porque
+71:54
+lo registramos de forma manual en cada
+71:58
+turno y es válido entonces el auditor
+72:01
+cuando vaya y audite a las empresas va a
+72:05
+aceptar esto estas dos opciones tanto
+72:07
+que sean en medio electrónico como en
+72:09
+papel
+72:10
+si también la revisión y aprobación con
+72:14
+respecto a la conveniencia y adecuación
+72:17
+entonces esta revisión quiero revisado
+72:20
+que no aprobado con respecto a que sea
+72:22
+conveniente y que sea adecuado si
+72:25
+continuamos con el control una vez que
+72:29
+hemos creado esta información
+72:30
+documentada que es lo que sigue el
+72:33
+control el control de la información
+72:35
+documentada
+72:37
+aquí la información documentada
+72:39
+requerida por el sistema de gestión de
+72:41
+la calidad y por esta norma se debe
+72:44
+controlar con qué finalidad con la
+72:48
+finalidad de asegurarnos que estén
+72:50
+disponibles y sea idóneo para su uso
+72:54
+dónde y cuando se necesite entonces
+72:59
+debe ser que éste debe ser idóneo que
+73:02
+esté disponible disponible es que las
+73:05
+personas que necesitan utilizar ese
+73:09
+documento este pues lo puedan pueden
+73:12
+tener acceso a ellos fácilmente
+73:14
+correcto es por ejemplo si los vamos a
+73:17
+tener el medio electrónico que se les dé
+73:19
+facilidad para que ingresen a la carpeta
+73:23
+y si ese medio físico porque también lo
+73:25
+que tengan una copia controlada que sea
+73:28
+idóneo para su uso dónde y cuando se
+73:31
+necesite
+73:33
+y donde por el uso un ejemplo alguna
+73:36
+empresa metalúrgica en donde es un tanto
+73:40
+difícil en producción conservar papeles
+73:43
+sí porque de repente existe pues un
+73:46
+ambiente un tanto existe pues y polvo
+73:49
+que que deteriora las las hojas y
+73:53
+entonces ahí tener los documentos
+73:55
+impresos quizás no sea una no sea lo más
+74:00
+recomendable de repente se puede tener o
+74:02
+clasificado o en una mica para que para
+74:04
+evitar su deterioro que sea idóneo para
+74:07
+el uso o también dentro de se puede
+74:10
+tener de manera electrónica si dentro
+74:12
+pues de algunas computadoras en la
+74:15
+medida de lo posible si el proceso
+74:17
+permite tener dichos dichos equipos en
+74:20
+cerca los procesos
+74:23
+que esté protegida adecuadamente por
+74:27
+ejemplo protegida contra la pérdida de
+74:29
+la confidencialidad su uso inadecuado o
+74:32
+pérdida de integridad y que esté
+74:35
+protegido que por ejemplo si luego hemos
+74:39
+compartido un procedimiento de
+74:40
+producción con todas las áreas de
+74:43
+repente un área
+74:46
+el hito tuvo este no no no se percataron
+74:50
+de que de que ha estado pues protegido
+74:53
+el documento y pudo editar pudo borrar
+74:55
+pudo modificar alterar cierta
+74:58
+información y esta información pues las
+75:01
+otras áreas las pueden no se pueden
+75:02
+confundir y tomarlo como válido sí que
+75:05
+esté protegido el documento de forma
+75:08
+electrónica que que no lo puedan editar
+75:10
+de forma
+75:11
+física que te indiquen pues que algún
+75:15
+tema alterar el documento o realizar una
+75:19
+touch borrón pues no está permitido
+75:22
+correcto
+75:25
+no darle puedes darle un uso adecuado
+75:29
+y el tema de perder la integridad del
+75:32
+documento como explicaba que este pues
+75:35
+debidamente protegido en ambos medios y
+75:40
+de ambas formas continuamos para el
+75:43
+control de la información documentada
+75:47
+la organización debe abordar las
+75:50
+siguientes actividades según corresponda
+75:54
+la distribución el acceso la
+75:56
+recuperación y el uso y la distribución
+75:59
+a qué personas va a llegar el documento
+76:01
+qué personas necesitan tener
+76:03
+conocimiento de dicho documento el
+76:06
+acceso si es fácil acceso a la red a la
+76:09
+carpeta compartida
+76:12
+por ejemplo algunos trabajan en share
+76:15
+point en one drive en algún tipo de
+76:19
+almacenamiento de datos
+76:21
+recuperación el backup y el backup que
+76:24
+tenemos de los documentos y el uso de la
+76:27
+letra b tenemos el almacenamiento la
+76:30
+preservación incluida la preservación de
+76:33
+la elegibilidad y el almacenamiento en
+76:36
+donde estamos almacenando la información
+76:38
+si no tenemos una forma física carpenter
+76:41
+files protegidos la preservación
+76:46
+y evitar de que se deteriore
+76:49
+considerar que tenemos la la versión
+76:52
+pues actualizada asegurarnos de ello sí
+76:56
+incluido pues la preservación de la
+76:57
+legibilidad evitar pues el deterioro o
+77:00
+algún
+77:01
+alguna
+77:04
+edición del documento sí
+77:08
+control de cambios por ejemplo el
+77:10
+control de la versión identificar cuál
+77:12
+es el cambio
+77:14
+el documento del documento otro cuál es
+77:15
+el cambio que cambio pues ha suscitado
+77:18
+identificar cuál ha sido el cambio de
+77:21
+qué manera podemos realizarlo
+77:24
+podemos realizarlo por ejemplo
+77:27
+en el control de cambios decir cuál es
+77:30
+que decía antes que ha sido cambiado que
+77:33
+se ha agregado que se ha eliminado en
+77:36
+otros casos lo tienen pues en automático
+77:39
+lo tienen lo que se ha agregado por
+77:41
+ejemplo está en cursiva y negrita si lo
+77:46
+que se ha eliminado se indica en el
+77:47
+control de cambios qué cosa es eliminado
+77:49
+lo que se ha cambiado o sea repente o
+77:52
+está subrayado correcto para de una
+77:56
+forma visual más rápido identificar cuál
+77:59
+acción del cambio si es que se ha
+78:01
+agregado algo o se ha cambiado y si se
+78:03
+ha eliminado
+78:04
+considerarlo en el control de cambios en
+78:07
+la caja de control de cambios
+78:08
+luego nos habla de la conservación y
+78:11
+disposición
+78:13
+la conservación de la documentación y en
+78:17
+qué
+78:19
+y dependiendo de qué tipo
+78:21
+si está en físico en electrónico de qué
+78:23
+manera se está conservando en donde lo
+78:25
+estamos almacenando
+78:28
+que estamos por ejemplo de qué manera lo
+78:31
+conservamos cuando tenemos
+78:34
+registros y la disposición sí sí el
+78:37
+registro pues ésta se tiene por
+78:39
+disposición de estos documentos si se
+78:42
+almacenan pues en un archivo o se tienen
+78:46
+acceso a este archivo o no revisa todos
+78:50
+esos puntos continuamos con una pirámide
+78:54
+de documentos
+78:56
+correcto en esta pirámide de documentos
+79:00
+si nosotros vemos los documentos
+79:04
+desde la base hacia el primer documento
+79:08
+que es política que estamos viendo los
+79:11
+documentos de importancia si y si
+79:14
+nosotros leemos los documentos de éste
+79:17
+desde política hacia registros hacia la
+79:20
+base vemos el detalle aumenta el detalle
+79:24
+del documento mientras que si vemos
+79:26
+desde registros hasta política vemos que
+79:30
+aumenta la importancia del documento
+79:33
+entonces empezamos hemos revisado
+79:36
+recuerden en el capítulo 5 política es
+79:39
+un documento como observamos muy
+79:42
+importante en el cual tiene lineamientos
+79:45
+tiene compromisos compromisos de forma
+79:49
+general como se han podido dar cuenta
+79:51
+entonces por eso a nivel de detalle pues
+79:54
+no nos brindó tanto detalle en esta
+79:57
+política establecemos pues los
+79:59
+compromisos de la empresa con respecto
+80:02
+al manual de calidad algunas
+80:05
+organizaciones todavía lo mantiene
+80:08
+no es requisito sin embargo
+80:13
+debido a la que
+80:16
+creo si solicitaba si era un requisito
+80:18
+algunas empresas lo mantienen como una
+80:21
+buena práctica así como una buena
+80:23
+práctica porque es una manera
+80:27
+muy interesante es una manera muy
+80:31
+robusta de presentar la documentación en
+80:34
+un caso pues que tenga algunos casos se
+80:37
+necesita revisar el sistema de gestión
+80:39
+entonces es una buena práctica
+80:42
+para algunas organizaciones que ya lo
+80:44
+tienen y que lo han gestionado de esta
+80:46
+forma sí
+80:49
+luego vienen los procedimientos aquí
+80:51
+aumenta aumenta el detalle del documento
+80:54
+en los procedimientos que va para cada
+80:57
+proceso luego contamos con las
+81:00
+instrucciones si las instrucciones
+81:05
+son más específicas tienen más detalle
+81:09
+porque porque ya te va a la actividad en
+81:12
+específico a la tarea en específico sí y
+81:16
+por último tenemos los registros del
+81:18
+sistema de gestión que en esta en este
+81:22
+campo en este documento tenemos mayor
+81:25
+detalle del documento por qué porque
+81:27
+estamos tomando información con cierta
+81:30
+frecuencia de lo que está sucediendo en
+81:33
+el proceso por ejemplo en la línea de
+81:35
+producción 3 en la segunda máquina de
+81:39
+corte cuántas piezas ha cortado en el
+81:43
+día no sé por ejemplo en el día 25 en el
+81:46
+primer turno y ahí tenemos todo ese
+81:48
+detalle correcto todo ese detalle toda
+81:51
+esa información que como registro nos
+81:54
+ayuda ayuda a mejorar el proceso ayuda a
+81:57
+tener pues estadísticas del proceso
+81:59
+estadísticas de la línea de producción
+82:00
+estadística de la máquina estadística
+82:02
+también incluso de cada colaborador
+82:06
+entonces en este esta pirámide de
+82:10
+documentos hemos estado revisando estos
+82:13
+documentos de forma general existen más
+82:16
+documentos claro que si por ejemplo
+82:18
+podemos tener los estándares podemos
+82:21
+tener
+82:22
+algún plan de control podemos tener
+82:25
+alguna matriz de riesgo o existe entre
+82:29
+otra documentación
+82:30
+si no son los dos porque estamos
+82:34
+proyectando en este caso cinco tipos de
+82:36
+documentos son los únicos no una
+82:39
+organización puede establecer más
+82:40
+documentos por ejemplo establecer sus
+82:43
+objetivos de calidad sus planes sus
+82:46
+planes de control planes de calidad
+82:49
+entre otros si esto depende de cada
+82:51
+organización bien seguimos la
+82:54
+información documentada de origen
+82:57
+externo que la organización determina
+82:59
+como necesaria para la planificación y
+83:03
+operación del sistema de gestión de la
+83:04
+calidad se debe de identificar
+83:07
+y según sea apropiado
+83:10
+controlar
+83:11
+entonces esta información documentada de
+83:14
+origen externo que la organización
+83:17
+determina como necesario para planificar
+83:19
+y para operar se debe de identificar si
+83:24
+qué información documentada de origen
+83:26
+externo nosotros hemos revisado hasta el
+83:29
+momento la norma la norma iso9001 es una
+83:32
+información documentada de origen
+83:34
+externo que la organización ha debido de
+83:38
+identificar
+83:40
+la información documentada conservada
+83:43
+como evidencia de la conformidad debe
+83:46
+protegerse contra modificaciones no
+83:49
+intencionadas si el documento estar
+83:51
+protegido contra estas modificaciones
+83:54
+pues no intencionadas
+83:58
+y el acceso puede implicar una decisión
+84:03
+en relación al permiso
+84:06
+solamente para consultar la información
+84:09
+documentada o al permiso de la autoridad
+84:12
+para consultar y modificar dicha
+84:14
+información documentada entonces podemos
+84:16
+solicitar acceso se puede brindar un
+84:18
+acceso así pero este acceso
+84:21
+puede darse en cuanto al permiso o sea
+84:25
+cuántas personas tienen acceso para ver
+84:28
+esta documentación y para ver para leer
+84:31
+para consultar
+84:34
+y también se puede dar se puede dar que
+84:38
+den permiso y también den autoridad para
+84:40
+consultar y modificar esta información
+84:43
+documentada se tiene que definir bien
+84:46
+eso quién va a tener que arias y quién
+84:49
+va a ser el responsable quién va a tener
+84:51
+la autoridad de poder modificar esta
+84:53
+información de origen externo como puede
+84:57
+ser qué cosa puede ser por ejemplo los
+84:59
+planos del cliente para que se puedan
+85:02
+elaborar un nuevo plan o puedan hacer un
+85:04
+nuevo diseño entonces existe esta
+85:08
+autorización si es si existe esta
+85:10
+autoridad para llevarlo a cabo claro
+85:13
+está previo análisis previa evaluación
+85:16
+correcto entonces
+85:19
+continuamos
+85:21
+existen pues diversos tipos de
+85:24
+documentos como hemos estado
+85:26
+hablando en las anteriores diapositivas
+85:30
+la organización es libre de generar los
+85:35
+tipos de los documentos que considere
+85:38
+que son necesarios para que sus procesos
+85:41
+puedan llevarse de la mejor manera y que
+85:44
+también aporten valor a sus procesos en
+85:47
+este cuadro presentamos diversos tipos
+85:50
+de documentos como son por ejemplo
+85:52
+acuerdos administrativos
+85:55
+especificaciones instructivos a trabajos
+85:57
+lineamientos manuales internos manuales
+86:01
+de procedimientos
+86:03
+programas políticas registros si
+86:07
+entonces cada organización elabora cada
+86:11
+organización establece cuáles son los
+86:13
+documentos con la cual con los cuales va
+86:15
+a trabajar cuáles son esos tipos de
+86:18
+documentos
+86:20
+y aquí tenemos otro ejemplo de lista de
+86:25
+documentos si entonces en este ejemplo
+86:28
+nosotros vemos los documentos de origen
+86:31
+interno si por ejemplo planes
+86:34
+procedimientos registros programa cuál
+86:37
+es el nombre del documento cuál es la
+86:39
+revisión fecha en que entró en vigencia
+86:42
+que es el responsable de su control y su
+86:46
+retención la retención de documentos es
+86:49
+cuánto es el tiempo que yo lo voy a
+86:51
+tener por ejemplo en un archivo
+86:54
+activos por ejemplo si el cliente me
+86:58
+dice que
+86:59
+yo fabricó un tipo de producto que según
+87:03
+el cliente ya hemos establecido algún
+87:05
+acuerdo contractual me indica que se
+87:08
+esos registros es el registro de cada
+87:11
+producto tiene que tener una vigencia de
+87:13
+cinco años entonces yo ahora puedo tener
+87:15
+archivos sí y por ejemplo de aquí uno o
+87:18
+dos años el cliente solicite algún
+87:22
+registro de algún producto en especial
+87:24
+se le pueda brindar correcto ya ha
+87:26
+pasado estos cinco años la empresa
+87:28
+decide lo pasa a un archivo pasivo o lo
+87:31
+elimina
+87:33
+cuál es cuánto es el tiempo de la
+87:34
+atención esto va a variar según el
+87:37
+cliente según la empresa según la
+87:39
+organización según el giro del negocio
+87:42
+si no es un requisito de cliente
+87:45
+la empresa puede determinar que sea por
+87:47
+ejemplo un año dos años tres años si es
+87:50
+un requisito del cliente y cliente
+87:52
+define cuánto tiempo la empresa lo tiene
+87:55
+que retener pueden ser unos dos tres
+87:58
+cinco diez años lo que el cliente decida
+88:01
+y aquí tenemos una lista de documentos
+88:04
+controlados si es otro ejemplo también
+88:07
+en donde estamos colocando los nombres
+88:10
+del documento la revisión cuanto cuando
+88:13
+entró en vigencia el responsable de
+88:16
+atención para los de origen externo y
+88:19
+con respecto al procedimiento la
+88:21
+estructura del procedimiento pues
+88:24
+estamos componen la estructura hay un
+88:27
+título un logo de la empresa algunos
+88:30
+colocan en al costado el título también
+88:33
+en el código la versión una fecha como
+88:37
+estructura del procedimiento tenemos un
+88:39
+objetivo alcance referencia definición
+88:42
+del responsable el desarrollo de los
+88:44
+anexos
+88:45
+luego tenemos controles de cambio y
+88:47
+quién a quien ha probado que no ha
+88:49
+revisado y no elaborado entonces esto es
+88:53
+una estructura que va a variar no quiere
+88:55
+decir que ese es el plazo de aplicar
+88:56
+siempre varía de empresa a empresa varía
+89:00
+algunos pueden considerar solamente
+89:02
+objeto objetivo
+89:05
+y el cáncer
+89:07
+y luego se va de frente al desarrollo
+89:10
+desarrollo de todo de todo el
+89:12
+procedimiento si igual los controles de
+89:16
+cambio también cada empresa decide cómo
+89:17
+manejar sus cómo gestionar sus controles
+89:20
+de cambio correcto entonces esta es una
+89:24
+guía simplemente lo pueden mejorar le
+89:27
+pueden colocar más detalle de repente
+89:30
+ustedes consideran que lo mínimo
+89:31
+necesario por el momento porque es una
+89:33
+empresa que recién está empezando recién
+89:35
+está implementando el sistema de gestión
+89:37
+y también es válido en este caso se
+89:40
+gestionada con firmas ahora puede ser
+89:42
+con firmas
+89:43
+digitales o también puede ser con
+89:45
+aprobaciones de correo y es
+89:47
+necesariamente colocar la firma
+89:48
+simplemente colocar el nombre de la
+89:50
+persona si existen diferentes maneras de
+89:53
+gestionar esto depende de según cada
+89:56
+empresa
+89:58
+muchas gracias por su atención y nos
+90:00
+vemos en la siguiente sesión sí gracias
+90:07
+[Música]
